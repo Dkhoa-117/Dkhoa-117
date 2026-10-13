@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu Dang Khoa</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [ChessLovers](https://github.com/Dkhoa-117/ChessLovers)
-
-- 🌱 I’m currently learning **python, javascript and kotlin**
-
-- 👯 I’m looking to collaborate on [ChessLovers](https://github.com/Dkhoa-117/ChessLovers)
-
-- 💬 Ask me about **mobile, nodejs**
+- 💬 Ask me about **java spring boot, angular, mobile, nodejs**
 
 - 📫 How to reach me **toilavudangkhoa@gmail.com**
 
