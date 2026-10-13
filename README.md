@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **toilavudangkhoa@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://github.com/Dkhoa-117/Dkhoa-117/blob/main/%5B19-12-2022%5Dvudangkhoa.pdf)
+- 📄 Know about my experiences [My CV](https://github.com/user-attachments/files/33402685/2026_10_14_vudangkhoa.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
